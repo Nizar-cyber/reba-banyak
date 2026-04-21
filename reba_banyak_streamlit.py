@@ -46,7 +46,7 @@ st.markdown(
 # ─────────────────────────────────────────────────────────────────────────────
 # LOGIN (simple session-based)
 # ─────────────────────────────────────────────────────────────────────────────
-LOGIN_USER = "Kaizen"
+LOGIN_USER = "CCY"
 LOGIN_PASS = "Toyota2026"
 
 if "logged_in" not in st.session_state:
